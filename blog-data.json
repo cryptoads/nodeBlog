@@ -319,15 +319,8 @@
   "title": "Ac Tellus Semper Interdum Mauris Ullamcorper Purus Sit Amet",
   "content": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
  },
- "undefined": {
-  "first_name": "bigfeller",
-  "last_name": "guyguy",
-  "date": "this@that.com",
-  "title": "sdfasf",
-  "content": "lakjsdfalskfja ldkfjasldkfja lkfsajdfaslfk jlasdf"
- },
- "NaN": {
-  "id": null,
+ "41": {
+  "id": 41,
   "first_name": "bigfeller",
   "last_name": "guyguy",
   "date": "this@that.com",

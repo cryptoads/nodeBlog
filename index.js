@@ -30,7 +30,7 @@ app.post('/new', (req,res)=>{
         fs.readFile(blogData, (err, data)=>{
         if(err) return console.log(err);
         let posts = JSON.parse(data);
-        let newId = posts.length + 1;
+        let newId = Object.keys(posts).length + 1;
         let newContent = {
             id: newId,
             first_name: req.body.first_name,
